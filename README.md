@@ -8,20 +8,13 @@ Greetings, visitors to my Github profile. As you've probably surmised by now, my
 
 My location is in Midway City, Orange County, southern California, USA, Earth, Sol System, Milky Way Galaxy, Virgo Cluster, Laniakea Supercluster. (It's important to know where one is in this universe.)
 
-## Interests:
-
-My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc, etc, etc.
-
 ## Professions:
 
 My professions are "computer programmer" and "electronics engineer".
 
-## Identification:
-However, I don't identify myself by my professions, because they are just what I _do_, not what I _am_. Nor do I identify myself by sex, religion, race, or politics. I'm just identify myself as "Robbie Hatley, a human".
+## Interests:
 
-## Hot Buttons:
-
-Speaking of "sex, religion, race, or politics", while I do realize that one is not supposed to bring those 4 topics up in public, I always do anyway, because at age 65 I'm sick of walking on eggshells. So for what it's worth, here are my attitudes on those 4 topics: Sex: I don't judge people by their sexual orientation or sexual identification; that's their business, not mine. Religion: I am atheist; I think religions are all fantasies and should not be taken literally. Race: Does not exist; all humans originated in Africa, so we're all Black African Negros whether we like it or not; so let's just call ourselves "humans" and treat each other equally, please. Politics: I'm a libertarian/socialist blend; I think governments should allow people maximum liberties and rights feasible, but I also think governments should collect taxes and enact safety nets.
+My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc, etc, etc.
 
 # External Info About Robbie Hatley:
 
@@ -31,7 +24,7 @@ For more info about me, see these pages:
 
 [My Facebook About Page](https://www.facebook.com/robbie.hatley/about)
 
-# My Repositories:
+# My GitHub Repositories:
 
 My primary repository here on GitHub is [CLI Programming](https://github.com/robbie-hatley/CLI-Programming). The purpose of this repository is for me to share with The World all of my command-line programming. Please consider all these items as being "shareware", meaning you are free to download and use these items for free; but if you do feel like slipping me a few bucks, donations will kindly be accepted, just send them to the PayPal account of "`LagrangeL5@gmail.com`". Also be aware that everything in this repository is "libre" and is under the Gnu Public License Version 2; so feel free to download, use, alter, and distribute this material if you like, but please retain all attribution blurbs (eg, "Written on 3 Nov 2022 by Robbie Hatley" and the like).
 
