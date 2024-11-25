@@ -8,7 +8,7 @@ Greetings, visitors to my Github profile. As you've probably surmised by now, my
 
 My location is in Midway City, Orange County, southern California, USA, Earth, Sol System, Milky Way Galaxy, Virgo Cluster, Laniakea Supercluster. (It's important to know where one is in this universe.)
 
-## Interests;
+## Interests:
 
 My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc, etc, etc.
 
