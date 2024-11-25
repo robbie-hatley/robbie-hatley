@@ -14,7 +14,7 @@ My professions are "computer programmer" and "electronics engineer".
 
 ## Interests:
 
-My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc.
+My interests include: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc.
 
 ## Contact Info:
 
