@@ -37,7 +37,7 @@ My primary repository here on GitHub is [CLI Programming](https://github.com/rob
 
 # Languages I Program In:
 
-My favorite computer programming language to program in, by far, is Perl. I especially like what's been done in the last few stable versions (5.36, 5.38, 5.40) as they add some features which I think should have been put in the language decades ago (eg, signatures and logical xor).
+My favorite language to program in, by far, is Perl. I especially like what's been done in the last few stable versions (5.36, 5.38, 5.40) as they add some features which I think should have been put in the language decades ago (eg, signatures and logical xor).
 
 I can also program fluently in C, C++, Arduino, Sed, Awk, and AutoIt3.
 
