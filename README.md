@@ -33,7 +33,7 @@ For more info about me, see these pages:
 
 # My Repositories:
 
-My primary repository here on GitHub is [CLI Programming](https://github.com/robbie-hatley/CLI-Programming). The purpose of this repository is for me to share with The World all of my command-line programming. Please consider all these items as being "shareware", meaning you are free to download and use these items for free; but if you do feel like slipping me a few bucks, donations will kindly be accepted, just send them to the PayPal account of <span>"LagrangeL5@gmail.com"</span>. Also be aware that everything in this repository is "libre" and is under the Gnu Public License Version 2; so feel free to download, use, alter, and distribute this material if you like, but please retain all attribution blurbs (eg, "Written on 3 Nov 2022 by Robbie Hatley" and the like).
+My primary repository here on GitHub is [CLI Programming](https://github.com/robbie-hatley/CLI-Programming). The purpose of this repository is for me to share with The World all of my command-line programming. Please consider all these items as being "shareware", meaning you are free to download and use these items for free; but if you do feel like slipping me a few bucks, donations will kindly be accepted, just send them to the PayPal account of "[LagrangeL5@gmail.com]()". Also be aware that everything in this repository is "libre" and is under the Gnu Public License Version 2; so feel free to download, use, alter, and distribute this material if you like, but please retain all attribution blurbs (eg, "Written on 3 Nov 2022 by Robbie Hatley" and the like).
 
 # Languages I Program In:
 
