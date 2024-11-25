@@ -16,10 +16,6 @@ My professions are "computer programmer" and "electronics engineer".
 
 My interests include: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc.
 
-## Contact Info:
-
-To contact me, send me an email at "Hatley.Software@gmail.com".
-
 # External Info About Robbie Hatley:
 
 For more info about me, see these pages:
@@ -41,6 +37,10 @@ I can also program fluently in C, C++, Arduino, Sed, Awk, and AutoIt3.
 I have a smattering of experience in Python and Raku, though I'm rusty at those.
 
 Languages I'd like to learn in the future include Rust and Lisp.
+
+# Contact Info:
+
+To contact me, send me an email at "Hatley.Software@gmail.com".
 
 <!---
 robbie-hatley/robbie-hatley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
