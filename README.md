@@ -2,7 +2,7 @@
 
 ## Welcome:
 
-Greetings, visitors to my Github profile. As you've probably surmised by now, my name is "Robbie Hatley" and my GitHub user-id is "robbie-hatley". I am also known by many other monikers in other forums, including "robbie-hatley" (especially in programming and computer circles), "LoneWolfiNTj", "LagrangeL4", "Silly Salty Squiggleswirl", "Arlen Moondreamer", and others.
+Greetings, visitors to my Github profile. As you've probably surmised by now, my name is "Robbie Hatley" and my GitHub user-id is "robbie-hatley". I am also known by many other monikers in other forums, including "robbie-hatley", "LoneWolfiNTj", "LagrangeL4", and others.
 
 ## Location:
 
@@ -14,7 +14,11 @@ My professions are "computer programmer" and "electronics engineer".
 
 ## Interests:
 
-My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc, etc, etc.
+My interests and hobbies are many and varied: Computers, programming, The Internet, conversing in Internet forums, watching YouTube videos, online shopping, reading, writing, mathematics, the physical sciences, philosophy, psychology, music (both listening and composing), physical activity (walking, running, cycling, hiking), travel, photography, etc.
+
+## Contact Info:
+
+To contact me, send me an email at "Hatley.Software@gmail.com".
 
 # External Info About Robbie Hatley:
 
